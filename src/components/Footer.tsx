@@ -29,10 +29,10 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">{t('footer.connect')}</h3>
             <div className="flex space-x-4">
-              <a href="https://github.com/StarXoluMG" className="hover:text-blue-400">
+              <a href="https://github.com/StarXoluMG" target="_blank" className="hover:text-blue-400">
                 <Github className="w-6 h-6" />
               </a>
-              <a href="https://www.linkedin.com/in/xoluqobo-mkhwanazi-1009493b/" className="hover:text-blue-400">
+              <a href="https://www.linkedin.com/in/xoluqobo-mkhwanazi-1009493b/" target="_blank" className="hover:text-blue-400">
                 <Linkedin className="w-6 h-6" />
               </a>
               <a href="mailto:xolu.mkhwanazi@gmail.com" className="hover:text-blue-400">

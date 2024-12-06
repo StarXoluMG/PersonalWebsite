@@ -36,6 +36,7 @@ const Contact: React.FC = () => {
             <div className="space-y-4">
               <a
                 href="https://github.com/StarXoluMG"
+                target="_blank"
                 className="flex items-center space-x-3 text-gray-600 hover:text-blue-600"
               >
                 <Github className="w-6 h-6" />
@@ -43,6 +44,7 @@ const Contact: React.FC = () => {
               </a>
               <a
                 href="https://www.linkedin.com/in/xoluqobo-mkhwanazi-1009493b/"
+                target="_blank"
                 className="flex items-center space-x-3 text-gray-600 hover:text-blue-600"
               >
                 <Linkedin className="w-6 h-6" />
