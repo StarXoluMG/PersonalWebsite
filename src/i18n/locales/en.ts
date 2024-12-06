@@ -70,12 +70,12 @@ export default {
   projects: {
     title: 'Projects & Portfolio',
     project1: {
-      title: 'AI-Powered Analytics Platform',
+      title: 'Excel News PlugIn',
       description: 'Developed a machine learning-based analytics platform for financial data analysis'
     },
     project2: {
-      title: 'Blockchain Trading System',
-      description: 'Built a secure cryptocurrency trading platform using blockchain technology'
+      title: 'Japan Pet Relocation Assistant App',
+      description: 'Using AI - built and deployed a Pet Relocation Assistant App for'
     },
     project3: {
       title: 'Enterprise Resource Planning',
