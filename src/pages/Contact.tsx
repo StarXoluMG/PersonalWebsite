@@ -35,14 +35,14 @@ const Contact: React.FC = () => {
             
             <div className="space-y-4">
               <a
-                href="https://github.com"
+                href="https://github.com/StarXoluMG"
                 className="flex items-center space-x-3 text-gray-600 hover:text-blue-600"
               >
                 <Github className="w-6 h-6" />
                 <span>GitHub</span>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/xoluqobo-mkhwanazi-1009493b/"
                 className="flex items-center space-x-3 text-gray-600 hover:text-blue-600"
               >
                 <Linkedin className="w-6 h-6" />
